@@ -1,0 +1,23 @@
+
+.box{
+    width: 100%;
+    display: flex;
+   
+} 
+.sub_navbar{
+    border-top: 0.063rem solid #E2E2E2;
+    border-bottom: 0.063rem solid #E2E2E2;
+    
+}
+/* .home_text,.course_text{
+   
+    margin-left: 24.063rem;
+    color: #000000;
+} */
+.symbol_img{
+    height: 0.625rem;
+    width: 1rem;
+   
+    margin-top: 0.998rem;
+   
+}

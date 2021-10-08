@@ -1,0 +1,65 @@
+.main_block{
+    display: flex;
+    margin-left: 20px;
+    
+}
+.img_block{
+    margin-top: 35px;
+    
+}
+.text_content{
+    margin: auto 0;
+    font-family: sans-serif;
+    font-size: 48px;
+    
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.girl_text{
+    margin-left: 20px;
+}
+.hr_line{
+    margin-top: 40px;
+}
+.main_section{
+    display: flex;
+   
+}
+.section1{
+    width: 30%;
+    margin-left: 10px;
+   
+}
+.section2{
+    width: 20%;
+   text-align: left;
+    
+   
+}
+.list_items{
+    list-style-type: none;
+   
+}
+.list_items li{
+    text-align: left;
+    padding: 10px;
+}
+.content1{
+    text-align: left;
+   
+}
+.content2{
+    display: flex; 
+    width: 400px;
+    padding: 5%;
+    text-align: left;
+ /* flex-wrap: wrap; */
+    
+}
+.list_img{
+    margin-right: 20px;
+}
